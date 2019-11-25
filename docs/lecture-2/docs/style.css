@@ -1,0 +1,27 @@
+h1 { color: darkslategrey;}
+
+h2 { color: slategrey;}
+
+article { background-color: lightgrey}
+
+th, td { border: 1px solid black;}
+
+#tableagenda {
+    border: 1px solid black;
+    width: 100%;}
+
+#tableheader { text-align: left}
+
+#tablecaption {
+    text-align: center}
+
+.tableexercise {
+    color: red;
+}
+
+.tableholiday {
+    color: darkslategrey;
+    font-style: italic;
+}
+
+html { background-color: darkseagreen}
